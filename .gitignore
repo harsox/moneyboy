@@ -1,0 +1,4 @@
+__pycache__
+data/*
+!data/bitstampUSD_sample.csv
+.DS_Store
